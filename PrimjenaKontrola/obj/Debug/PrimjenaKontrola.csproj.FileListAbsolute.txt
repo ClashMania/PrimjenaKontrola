@@ -1,0 +1,24 @@
+C:\Users\ucenik\Documents\Visual Studio Codes\PrimjenaKontrola\bin\Debug\PrimjenaKontrola.exe.config
+C:\Users\ucenik\Documents\Visual Studio Codes\PrimjenaKontrola\bin\Debug\PrimjenaKontrola.exe
+C:\Users\ucenik\Documents\Visual Studio Codes\PrimjenaKontrola\bin\Debug\PrimjenaKontrola.pdb
+C:\Users\ucenik\Documents\Visual Studio Codes\PrimjenaKontrola\obj\Debug\PrimjenaKontrola.csproj.AssemblyReference.cache
+C:\Users\ucenik\Documents\Visual Studio Codes\PrimjenaKontrola\obj\Debug\PrimjenaKontrola.csproj.SuggestedBindingRedirects.cache
+C:\Users\ucenik\Documents\Visual Studio Codes\PrimjenaKontrola\obj\Debug\PrimjenaKontrola.Form1.resources
+C:\Users\ucenik\Documents\Visual Studio Codes\PrimjenaKontrola\obj\Debug\PrimjenaKontrola.Properties.Resources.resources
+C:\Users\ucenik\Documents\Visual Studio Codes\PrimjenaKontrola\obj\Debug\PrimjenaKontrola.csproj.GenerateResource.cache
+C:\Users\ucenik\Documents\Visual Studio Codes\PrimjenaKontrola\obj\Debug\PrimjenaKontrola.csproj.CoreCompileInputs.cache
+C:\Users\ucenik\Documents\Visual Studio Codes\PrimjenaKontrola\obj\Debug\PrimjenaKontrola.exe
+C:\Users\ucenik\Documents\Visual Studio Codes\PrimjenaKontrola\obj\Debug\PrimjenaKontrola.pdb
+C:\Users\ucenik\Documents\Visual Studio Codes\PrimjenaKontrola\obj\Debug\PrimjenaKontrola.Form2.resources
+C:\Users\heist\Downloads\Primjena_Kontrola-main\PrimjenaKontrola\bin\Debug\PrimjenaKontrola.exe.config
+C:\Users\heist\Downloads\Primjena_Kontrola-main\PrimjenaKontrola\bin\Debug\PrimjenaKontrola.exe
+C:\Users\heist\Downloads\Primjena_Kontrola-main\PrimjenaKontrola\bin\Debug\PrimjenaKontrola.pdb
+C:\Users\heist\Downloads\Primjena_Kontrola-main\PrimjenaKontrola\obj\Debug\PrimjenaKontrola.csproj.AssemblyReference.cache
+C:\Users\heist\Downloads\Primjena_Kontrola-main\PrimjenaKontrola\obj\Debug\PrimjenaKontrola.csproj.SuggestedBindingRedirects.cache
+C:\Users\heist\Downloads\Primjena_Kontrola-main\PrimjenaKontrola\obj\Debug\PrimjenaKontrola.Form1.resources
+C:\Users\heist\Downloads\Primjena_Kontrola-main\PrimjenaKontrola\obj\Debug\PrimjenaKontrola.Form2.resources
+C:\Users\heist\Downloads\Primjena_Kontrola-main\PrimjenaKontrola\obj\Debug\PrimjenaKontrola.Properties.Resources.resources
+C:\Users\heist\Downloads\Primjena_Kontrola-main\PrimjenaKontrola\obj\Debug\PrimjenaKontrola.csproj.GenerateResource.cache
+C:\Users\heist\Downloads\Primjena_Kontrola-main\PrimjenaKontrola\obj\Debug\PrimjenaKontrola.csproj.CoreCompileInputs.cache
+C:\Users\heist\Downloads\Primjena_Kontrola-main\PrimjenaKontrola\obj\Debug\PrimjenaKontrola.exe
+C:\Users\heist\Downloads\Primjena_Kontrola-main\PrimjenaKontrola\obj\Debug\PrimjenaKontrola.pdb
